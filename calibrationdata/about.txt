@@ -1,0 +1,1 @@
+This contains 2 files, one each for the 2 stereo cameras and contains various parameters related to the camera like distortion coefficients, camera_matrix, image size, etc. which are used for calculating disparity between the left and right image pairs.
